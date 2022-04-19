@@ -43,7 +43,6 @@ We are working with the [Salas lab](https://www.clinicbarcelona.org/en/idibaps/r
 In collaboration with the [Ahituv lab](https://pharm.ucsf.edu/ahituv) we are investigating [nullomers](https://en.wikipedia.org/wiki/Nullomers), short k-mers that are *absent* from the genome. In our first publication we have characterized both nullomers and nullpeptides across 30 species as well as across human populations, and in a subsequent [preprint](https://www.medrxiv.org/content/10.1101/2021.08.15.21261805v1) we demonstrate how these sequences can be used as cancer biomarkers. Importantly, this includes liquid biopsies which implies that no tumor DNA is required.
 
 
-### Profiling of familial Alzheimer's disease using cortical organoids
+### CAR T-cells for solid tumors
 
-Together with the [Livesey lab](https://search2.ucl.ac.uk/s/redirect?collection=website-meta&url=https%3A%2F%2Fwww.ucl.ac.uk%2Fbiosciences%2Fneuroscience-rick-livesey&index_url=https%3A%2F%2Fwww.ucl.ac.uk%2Fbiosciences%2Fneuroscience-rick-livesey&auth=bxpz0E65dw7t56NzMJQeSg&profile=_website&rank=2&query=livesey) we are inserting mutations that are known to cause early-onset Alzheimer's disease into iPSCs that are subsequently differentiated into 3D neuronal cultures. This experimental system allows us to investigate what molecular pathways are perturbed in the disease models and this could result in novel therapeutical targets.
-
+Together with the [Marasco lab](https://marascolab.dana-farber.org/) at the Dana-Farber Institute we are trying to understand the mechanisms involved in a novel design which is aimed at overcoming the suppresive tumor microenvironment. We are using scRNA-seq to profile the immune microenvironment.
