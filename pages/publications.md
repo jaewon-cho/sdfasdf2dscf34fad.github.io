@@ -6,7 +6,13 @@ permalink: /publications
 
 For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
-[2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+
+## <a id="2022"></a>2022
+
+1. Kevin Riehl, Cristian Riccio, Eric A Miska, **Martin Hemberg**, [*TransposonUltimate: software for transposon classification, annotation and detection, Nucleic Acids Research*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac136/6541023), 10.1093/nar/gkac136, 2022.
+
+2. Ilias Georgakopoulos-Soares, Jesus Victorino, Guillermo E. Parada, Vikram Agarwal, Jingjing Zhao, Hei Yuen Wong, Mubarak Ishaq Umar, Orry Elor, Allan Muhwezi, Joon-Yong An, Stephan J. Sanders, Chun Kit Kwok, Fumitaka Inoue, **Martin Hemberg**, Nadav Ahituv, [*High-throughput characterization of the role of non-B DNA motifs on promoter function*](https://www.sciencedirect.com/science/article/pii/S2666979X22000313), Cell Genomics, 2, 2022.
 
 ## <a id="2021"></a>2021
 
@@ -27,6 +33,8 @@ For an up to date list of all publications (including preprints), please see [Go
 8. Patrick Cahan, Davide Cacchiarelli, Sara-Jane Dunn, **Martin Hemberg**, Susana M. Chuva de Sousa Lopes, Samantha Morris, Owen Rackham, Antonio del Sol, Christine A. Wells, *Computational Stem Cell Biology: open questions and guiding principles*, **Cell Stem Cell** 28(1), p20-32, 2021.
 
 9. Tallulah S Andrews, Vladimir Kiselev, Davis McCarthy, **Martin Hemberg**, [*Computational analysis of single cell RNA-seq: an overview*](https://www.nature.com/articles/s41596-020-00409-w), **Nature Protocols** 16(1), p1-9, 2021.
+
+10. Ilias Georgakopoulos-Soares, Ofer Yizhar-Barnea, Ioannis Mouratidis, **Martin Hemberg**, Nadav Ahituv, [*Absent from DNA and protein: genomic characterization of nullomers and nullpeptides across functional categories and evolution*](https://link.springer.com/article/10.1186/s13059-021-02459-z), **Genome Biology**, 22:1, 2021.
 
 ## <a id="2020"></a>2020
 
