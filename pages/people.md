@@ -4,7 +4,7 @@ title: People
 permalink: /people
 ---
 
-<img src="assets/img/lab_fleeces_2022.jpeg" alt="Lab in fleeces" width="400"/>
+<img src="assets/img/lab_fleeces_2022.jpeg" alt="Lab in fleeces" width="600"/>
 
 <p style="text-align: center;">Lab members wearing carefully coordinated fleeces and masks in the spring of 2022</p>
 
@@ -18,7 +18,15 @@ permalink: /people
 
 <img src="assets/img/mh.jpg" alt="Martin Hemberg" width="200"/>
 
-<p style="text-align: center;">Martin Hemberg, PhD (Principal Investigator)</p>
+<p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
+
+<img src="assets/img/yijun.jpg" alt="Yi-Jun Kim" width="200"/>
+
+<p style="text-align: center;">Yi-Jun Kim, MD, PhD (Visiting scholar)</p>
+
+<img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
+
+<p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
 
 ## Past members
 
