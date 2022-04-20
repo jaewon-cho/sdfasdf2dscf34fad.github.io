@@ -13,6 +13,10 @@ The cell is the fundamental unit of biology, and long term changes involve a coo
 
 We are interested in developing novel computational methods for analyzing high throughput sequencing data. In particular, there has been a focus on single-cell RNAseq, but we are also interested in other types of sequencing data.
 
+### Gene network inference using scRNAseq data
+
+Since the introduction of microarrays, scientists have tried to use genome wide transcriptome data to infer gene-gene interactions. With scRNAseq data it becomes possible to identify groups of cells of the same type which should in principle make this task easier. Nevertheless, the data remains noisy and in this project in collaboration with the [Lee](https://netbiolab.org/w/Welcome_to_Network_Biology_Laboratory) lab at Yonsei University in South Korea we are using a reference guided approach to leverage the large number of interactions that have been documented in the literature.
+
 ### Fast unsupervised clustering
 
 ![SC3s flow chart](/assets/img/sc3s.png)

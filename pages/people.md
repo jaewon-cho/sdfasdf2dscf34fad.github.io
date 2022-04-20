@@ -15,10 +15,6 @@ permalink: /people
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal Investigator)</p>
 
-<img src="assets/img/simone.jpg" alt="Simone Procaccia" width="200"/>
-
-<p style="text-align: center;">Simone Procaccia, (MSc student)</p>
-
 ## Past members
 
 * Irina Abnizova
@@ -37,9 +33,13 @@ permalink: /people
 
 * Nicholas Lee
 
+* Ioannis Mouratides
+
 * Guillermo Parada
 
 * Nikolaos Patikas
+
+* Simone Procaccia
 
 * Fu Xian Quah
 
