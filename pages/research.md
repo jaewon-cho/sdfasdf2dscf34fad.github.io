@@ -44,9 +44,13 @@ We are working with the [Salas lab](https://www.clinicbarcelona.org/en/idibaps/r
 
 ### Characterization of sequences absent from the genome
 
+![Neomers heatmap](/assets/img/neomers_heatmap.png)
+
 In collaboration with the [Ahituv lab](https://pharm.ucsf.edu/ahituv) we are investigating [nullomers](https://en.wikipedia.org/wiki/Nullomers), short k-mers that are *absent* from the genome. In our first publication we have characterized both nullomers and nullpeptides across 30 species as well as across human populations, and in a subsequent [preprint](https://www.medrxiv.org/content/10.1101/2021.08.15.21261805v1) we demonstrate how these sequences can be used as cancer biomarkers. Importantly, this includes liquid biopsies which implies that no tumor DNA is required.
 
 
 ### CAR T-cells for solid tumors
+
+![CART UMAP](/assets/img/cart_umap.png)
 
 Together with the [Marasco lab](https://marascolab.dana-farber.org/) at the Dana-Farber Institute we are trying to understand the mechanisms involved in a novel design which is aimed at overcoming the suppresive tumor microenvironment. We are using scRNA-seq to profile the immune microenvironment.
