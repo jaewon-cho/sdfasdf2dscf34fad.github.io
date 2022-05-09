@@ -11,6 +11,17 @@ permalink: /people
 
 ## Current members
 
+<img src="assets/img/SeungbynBaek.jpeg" alt="Seungbyn Baek" width="200"/>
+
+<p style="text-align: center;">Seungbyn Baek (PhD student)</p>
+
+<img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
+
+<p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
+
+<img src="assets/img/JunhaCha.jpg" alt="Junha Cha" width="200"/>
+
+<p style="text-align: center;">Junha Cha (Phd Student)</p>
 
 <img src="assets/img/jaewon.jpg" alt="Jae-Won Cho" width="200"/>
 
