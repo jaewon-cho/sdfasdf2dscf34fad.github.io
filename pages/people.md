@@ -11,7 +11,7 @@ permalink: /people
 
 ## Current members
 
-<img src="assets/img/SeungbynBaek.jpeg" alt="Seungbyn Baek" width="200"/>
+<img src="assets/img/SeungbynBaek.jpg" alt="Seungbyn Baek" width="200"/>
 
 <p style="text-align: center;">Seungbyn Baek (PhD student)</p>
 
