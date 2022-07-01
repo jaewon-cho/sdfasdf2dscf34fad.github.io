@@ -10,13 +10,15 @@ For an up to date list of all publications (including preprints), please see [Go
 
 ## <a id="2022"></a>2022
 
-1. Kevin Riehl, Cristian Riccio, Eric A Miska, **Martin Hemberg**, [*TransposonUltimate: software for transposon classification, annotation and detection, Nucleic Acids Research*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac136/6541023), 10.1093/nar/gkac136, 2022.
+1. Kevin Riehl, Cristian Riccio, Eric A Miska, **Martin Hemberg**, [*TransposonUltimate: software for transposon classification, annotation and detection*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac136/6541023), **Nucleic Acids Research**, 10.1093/nar/gkac136, 2022.
 
-2. Ilias Georgakopoulos-Soares, Jesus Victorino, Guillermo E. Parada, Vikram Agarwal, Jingjing Zhao, Hei Yuen Wong, Mubarak Ishaq Umar, Orry Elor, Allan Muhwezi, Joon-Yong An, Stephan J. Sanders, Chun Kit Kwok, Fumitaka Inoue, **Martin Hemberg**, Nadav Ahituv, [*High-throughput characterization of the role of non-B DNA motifs on promoter function*](https://www.sciencedirect.com/science/article/pii/S2666979X22000313), Cell Genomics, 2, 2022.
+2. Ilias Georgakopoulos-Soares, Jesus Victorino, Guillermo E. Parada, Vikram Agarwal, Jingjing Zhao, Hei Yuen Wong, Mubarak Ishaq Umar, Orry Elor, Allan Muhwezi, Joon-Yong An, Stephan J. Sanders, Chun Kit Kwok, Fumitaka Inoue, **Martin Hemberg**, Nadav Ahituv, [*High-throughput characterization of the role of non-B DNA motifs on promoter function*](https://www.sciencedirect.com/science/article/pii/S2666979X22000313), **Cell Genomics**, 2, 2022.
 
-3. Pilar Baldominos, Alex Barbera-Mourelle, Olga Barreiro, Yu Huang, Andrew Wight, Jae-Won Cho, Xi Zhao, Guillem Estivill, Isam Adam, Xavier Sanchez, Shannon McCarthy, Julien Schaller, Zara Khan, Albert Ruzo, Ricardo Pastorello, Edward T Richardson, Deborah Dillon, Paula Montero-Llopis, Romualdo Barroso-Sousa, Juliet Forman, Sachet A Shukla, Sara M Tolaney, Elizabeth A Mittendorf, Ulrich H von Andrian, Kai W Wucherpfennig, **Martin Hemberg**, Judith Agudo, [*Quiescent cancer cells resist T cell attack by forming an immunosuppressive niche*](https://www.sciencedirect.com/science/article/pii/S0092867422003439), Cell, 2022.
+3. Pilar Baldominos, Alex Barbera-Mourelle, Olga Barreiro, Yu Huang, Andrew Wight, Jae-Won Cho, Xi Zhao, Guillem Estivill, Isam Adam, Xavier Sanchez, Shannon McCarthy, Julien Schaller, Zara Khan, Albert Ruzo, Ricardo Pastorello, Edward T Richardson, Deborah Dillon, Paula Montero-Llopis, Romualdo Barroso-Sousa, Juliet Forman, Sachet A Shukla, Sara M Tolaney, Elizabeth A Mittendorf, Ulrich H von Andrian, Kai W Wucherpfennig, **Martin Hemberg**, Judith Agudo, [*Quiescent cancer cells resist T cell attack by forming an immunosuppressive niche*](https://www.sciencedirect.com/science/article/pii/S0092867422003439), **Cell**, 2022.
 
-4. Ilias Georgakopoulos-Soares, Guillermo E Parada, Hei Yuen Wong, Ragini Medhi, Giulia Furlan, Roberto Munita, Eric A Miska, Chun Kit Kwok, **Martin Hemberg**, [*Alternative splicing modulation by G-quadruplexes*](https://www.nature.com/articles/s41467-022-30071-7), Nature Communications, 13(1), 2022.
+4. Ilias Georgakopoulos-Soares, Guillermo E Parada, Hei Yuen Wong, Ragini Medhi, Giulia Furlan, Roberto Munita, Eric A Miska, Chun Kit Kwok, **Martin Hemberg**, [*Alternative splicing modulation by G-quadruplexes*](https://www.nature.com/articles/s41467-022-30071-7), **Nature Communications**, 13(1), 2022.
+
+5. Fredrik Salmen, Joachim De Jonghe, Tomasz S. Kaminski, Anna Alemany, Guillermo E. Parada, Joe Verity-Legg, Ayaka Yanagida, Timo N. Kohler, Nicholas Battich, Floris van den Brekel, Anna L. Ellermann, Alfonso Martinez Arias, Jennifer Nichols, **Martin Hemberg**, Florian Hollfelder, Alexander van Oudenaarden, [*High-throughput total RNA sequencing in single cells using VASA-seq*](https://www.nature.com/articles/s41587-022-01361-8), **Nature Biotechnology**, 2022.
 
 ## <a id="2021"></a>2021
 
