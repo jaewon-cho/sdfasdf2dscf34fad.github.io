@@ -20,6 +20,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 5. Fredrik Salmen, Joachim De Jonghe, Tomasz S. Kaminski, Anna Alemany, Guillermo E. Parada, Joe Verity-Legg, Ayaka Yanagida, Timo N. Kohler, Nicholas Battich, Floris van den Brekel, Anna L. Ellermann, Alfonso Martinez Arias, Jennifer Nichols, **Martin Hemberg**, Florian Hollfelder, Alexander van Oudenaarden, [*High-throughput total RNA sequencing in single cells using VASA-seq*](https://www.nature.com/articles/s41587-022-01361-8), **Nature Biotechnology**, 2022.
 
+6. Ilias Georgakopoulos-Soares, Guillermo E Parada, **Martin Hemberg**, [*Secondary structures in RNA synthesis, splicing and translation*](https://www.sciencedirect.com/science/article/pii/S2001037022001994), **Computational and Structural Biology Journal**, 20, p2771-2784, 2022.
+
+7. Guillermo E Parada, **Martin Hemberg**, [*Bridge over troubled transcripts*](https://www.nature.com/articles/s43588-022-00219-y), **Nature Computational Science**, 2, p142-143, 2022.
+
 ## <a id="2021"></a>2021
 
 1. Guillermo E Parada, Roberto Munita, Ilias Georgakopoulos-Soares, Hugo JR Fernandes, Veronika R Kedlian, Emmanouil Metzakopian, Maria Estela Andres, Eric A Miska, **Martin Hemberg**, [*MicroExonator enables systematic discovery and quantification of microexons across mouse embryonic development*](https://link.springer.com/article/10.1186/s13059-020-02246-2), **Genome Biology** 22(1) p1-26, 2021. 
