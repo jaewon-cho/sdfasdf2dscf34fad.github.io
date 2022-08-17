@@ -31,10 +31,6 @@ permalink: /people
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
 
-<img src="assets/img/yijun.jpg" alt="Yi-Jun Kim" width="200"/>
-
-<p style="text-align: center;">Yi-Jun Kim, MD, PhD (Visiting scholar)</p>
-
 <img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
 
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
@@ -50,6 +46,8 @@ permalink: /people
 * Louis-Francois Handfeld
 
 * Jacob Hepkema
+
+* Yi-Jun Kim
 
 * Vladimir Kiselev
 
@@ -72,6 +70,8 @@ permalink: /people
 * Kevin Riehl
 
 * Xiaojuan Shen
+
+* Yuyao Song
 
 * Nicole Staudt
 
