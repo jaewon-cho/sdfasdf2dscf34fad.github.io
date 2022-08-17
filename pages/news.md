@@ -12,7 +12,7 @@ permalink: /news
 
 Goodbye Yi-Jun! It was great to have her visit for almost a year and we wish her all the best as she starts her own research group in Korea.
 
-### Mar 31, 2022
+### May 31, 2022
 
 Goodbye Johannes! We are sad to see him returning to Sweden, but we are happy that he will be working with us for the rest of the summer.
 
