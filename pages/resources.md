@@ -28,6 +28,8 @@ All of our computational tools are available at our [GitHub](https://github.com/
 
 * [scfind](https://github.com/hemberg-lab/scfind) is an R package for fast searches of single-cell data.
 
+* [scHumanNet](https://github.com/netbiolab/scHumanNet) is an R package for reference guided construction of gene networks in human.
+
 ### Other genomics methods
 
 * [MicroExonator](https://github.com/hemberg-lab/MicroExonator) is a [snakemake](https://snakemake.readthedocs.io/en/stable/) pipeline for *de novo* discovery and quantification of short exons.

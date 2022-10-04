@@ -4,6 +4,10 @@ title: News
 permalink: /news
 ---
 
+### Sep 22, 2022
+
+Welcome Alexa Guang who will be co-mentored here in addition to her main home in the [Wucherpfennig lab](https://t-cells-treating-cancer.dana-farber.org/) at Dana Farber.
+
 ### Aug 14, 2022
 
 <img src="assets/img/lab_pizza_2022.jpg" alt="Lab eating pizza" width="600"/>
@@ -11,6 +15,10 @@ permalink: /news
 <p style="text-align: center;">Yi-Jun's farewell pizza.</p>
 
 Goodbye Yi-Jun! It was great to have her visit for almost a year and we wish her all the best as she starts her own research group in Korea.
+
+### Aug 3, 2022
+
+Welcome Yuyang Han who will be working as a data manager for the Evergrande Center.
 
 ### May 31, 2022
 

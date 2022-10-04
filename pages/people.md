@@ -27,6 +27,8 @@ permalink: /people
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
 
+<p style="text-align: center;">Yuyang Han (Data manager)</p>
+
 <img src="assets/img/mh.jpg" alt="Martin Hemberg" width="200"/>
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
@@ -35,7 +37,7 @@ permalink: /people
 
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
 
-## Past members
+## Past member (Sanger and BWH)s
 
 * Irina Abnizova
 
@@ -54,6 +56,8 @@ permalink: /people
 * Jimmy Lee
 
 * Nicholas Lee
+
+* Johannes Mofors
 
 * Ioannis Mouratides
 

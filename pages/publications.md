@@ -26,7 +26,11 @@ For an up to date list of all publications (including preprints), please see [Go
 
 8.  Kathryn J Gray, **Martin Hemberg**, S Ananth Karumanchi, [*Cell-Free RNA Transcriptome and Prediction of Adverse Pregnancy Outcomes*](https://academic.oup.com/clinchem/advance-article-abstract/doi/10.1093/clinchem/hvac109/6656108), **Clinical Chemistry**, 2022.
 
-9. Ilias Georgakopoulos-Soares, Candace S. Y. Chan, Nadav Ahituv, Martin Hemberg, [*High-throughput techniques enable advances in the roles of DNA and RNA secondary structures in transcriptional and post-transcriptional gene regulation*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02727-6), **Genome Biology**, 23, 2022. 
+9. Ilias Georgakopoulos-Soares, Candace S. Y. Chan, Nadav Ahituv, **Martin Hemberg**, [*High-throughput techniques enable advances in the roles of DNA and RNA secondary structures in transcriptional and post-transcriptional gene regulation*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02727-6), **Genome Biology**, 23, 2022. 
+
+10. Guillermo E Parada, **Martin Hemberg**, [*Identification and Quantification of Microexons using Bulk and Single-Cell RNA-Seq Data*](https://link.springer.com/protocol/10.1007/978-1-0716-2521-7_8), [**Alternative Splicing**](https://link.springer.com/book/10.1007/978-1-0716-2521-7), 2022.
+
+11. Tobias Bergmann, Yong Liu, Jonathan Skov, Leo Mogus, Julie Lee, Ulrich Pfisterer, Louis-Francois Handfield, Andrea Asenjo-Martinez, Irene Lisa-Vargas, Stefan E Seemann, Jimmy Tsz Hang Lee, Nikolaos Patikas, Birgitte Rahbek Kornum, Mark Denham, Poul Hyttel, Menno P Witter, Jan Gorodkin, Tune H Pers, **Martin Hemberg**, Konstantin Khodosevich, Vanessa Jane Hall, [*Production of human enthorinal stellate cell-like cells by forward programming shows an important role of Foxp1 in reprogramming*](https://www.frontiersin.org/articles/10.3389/fcell.2022.976549/full?field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=976549), **Frontiers in Cell and Developmental Biology**, 2022. 
 
 ## <a id="2021"></a>2021
 
