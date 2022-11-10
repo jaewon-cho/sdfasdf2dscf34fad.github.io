@@ -4,6 +4,14 @@ title: News
 permalink: /news
 ---
 
+### Nov 2, 2022
+
+Welcome Hanjune Kim who is another visitor from Yonsei University in South Korea. He will be in Boston for one year.
+
+### Oct 25, 2022
+
+Goodbye Junha! Sadly, his year in Boston has come to an end and he is feading back to Seoul.
+
 ### Sep 22, 2022
 
 Welcome Alexa Guang who will be co-mentored here in addition to her main home in the [Wucherpfennig lab](https://t-cells-treating-cancer.dana-farber.org/) at Dana Farber.

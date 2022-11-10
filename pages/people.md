@@ -19,13 +19,15 @@ permalink: /people
 
 <p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/JunhaCha.jpg" alt="Junha Cha" width="200"/>
-
-<p style="text-align: center;">Junha Cha (Phd Student)</p>
-
 <img src="assets/img/jaewon.jpg" alt="Jae-Won Cho" width="200"/>
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
+
+<img src="assets/img/alexa.jpeg" alt="Alexa Guan" width="200"/>
+
+<p style="text-align: center;">Alexa Guan (PhD student)</p>
+
+<img src="assets/img/yuyang.jpg" alt="Yuyang Han" width="200"/>
 
 <p style="text-align: center;">Yuyang Han (Data manager)</p>
 
@@ -35,6 +37,8 @@ permalink: /people
 
 <img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
 
+<p style="text-align: center;">Hanjune Kim (PhD student)</p>
+
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
 
 ## Past member (Sanger and BWH)s
@@ -42,6 +46,8 @@ permalink: /people
 * Irina Abnizova
 
 * Tallulah Andrews
+
+* Junha Cha
 
 * Ilias Georgakopoulos-Soares
 
