@@ -6,7 +6,9 @@ permalink: /publications
 
 For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
-[2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+
+## <a id="2023"></a>2023
 
 ## <a id="2022"></a>2022
 
@@ -31,6 +33,10 @@ For an up to date list of all publications (including preprints), please see [Go
 10. Guillermo E Parada, **Martin Hemberg**, [*Identification and Quantification of Microexons using Bulk and Single-Cell RNA-Seq Data*](https://link.springer.com/protocol/10.1007/978-1-0716-2521-7_8), [**Alternative Splicing**](https://link.springer.com/book/10.1007/978-1-0716-2521-7), 2022.
 
 11. Tobias Bergmann, Yong Liu, Jonathan Skov, Leo Mogus, Julie Lee, Ulrich Pfisterer, Louis-Francois Handfield, Andrea Asenjo-Martinez, Irene Lisa-Vargas, Stefan E Seemann, Jimmy Tsz Hang Lee, Nikolaos Patikas, Birgitte Rahbek Kornum, Mark Denham, Poul Hyttel, Menno P Witter, Jan Gorodkin, Tune H Pers, **Martin Hemberg**, Konstantin Khodosevich, Vanessa Jane Hall, [*Production of human enthorinal stellate cell-like cells by forward programming shows an important role of Foxp1 in reprogramming*](https://www.frontiersin.org/articles/10.3389/fcell.2022.976549/full?field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=976549), **Frontiers in Cell and Developmental Biology**, 2022. 
+
+12.  Junha Cha, Jiwon Yu, Jae-Won Cho, **Martin Hemberg**, Insuk Lee, [*scHumanNet: a single-cell network analysis platform for the study of cell-type specificity of disease genes*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac1042/6814446), **Nucleic Acids Research**, 2022.
+
+13. Fu Xian Quah, **Martin Hemberg**, [*SC3s: efficient scaling of single cell consensus clustering to millions of cells*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-05085-z), **BMC Bioinformatics**, 2022.
 
 ## <a id="2021"></a>2021
 
