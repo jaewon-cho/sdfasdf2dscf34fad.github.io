@@ -4,6 +4,22 @@ title: News
 permalink: /news
 ---
 
+### Feb 1
+
+Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. She will be working with us for six months to study PDACs.
+
+### Jan 24, 2023
+
+Martin gives the first lecture of the [BST282](https://www.coursicle.com/harvard/courses/BST/282/) course "Introduction to bioinformatics and computational genomics" given at the [Harvard School of Publich Health](https://www.hsph.harvard.edu/).
+
+### Jan 23, 2023
+
+Welcome Nikolaos Patikas who is joining a postdoctoral fellow to work on a CZI funded project to improve the Harmony software in collaboration wiht the [Korsunsky lab](https://www.korsunskylab.org/)
+
+### Nov 9, 2022
+
+Welcome Peterson Gitonga who is a postdoctoral fellow working on a joint project with the [Marasco lab](https://marascolab.dana-farber.org/) on characterizing B cell responses to vaccination.
+
 ### Nov 2, 2022
 
 Welcome Hanjune Kim who is another visitor from Yonsei University in South Korea. He will be in Boston for one year.

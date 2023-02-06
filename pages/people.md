@@ -11,10 +11,6 @@ permalink: /people
 
 ## Current members
 
-<img src="assets/img/SeungbynBaek.jpg" alt="Seungbyn Baek" width="200"/>
-
-<p style="text-align: center;">Seungbyn Baek (PhD student)</p>
-
 <img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
 
 <p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
@@ -24,6 +20,8 @@ permalink: /people
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
 
 <img src="assets/img/alexa.jpeg" alt="Alexa Guan" width="200"/>
+
+<p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
 
 <p style="text-align: center;">Alexa Guan (PhD student)</p>
 
@@ -35,17 +33,21 @@ permalink: /people
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
 
-<img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
-
 <p style="text-align: center;">Hanjune Kim (PhD student)</p>
+
+<img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
 
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
 
-## Past member (Sanger and BWH)s
+<p style="text-align: center;">Nikolaos Patikas (Postdoctoral fellow)</p>
+
+## Past members (Sanger and BWH)
 
 * Irina Abnizova
 
 * Tallulah Andrews
+
+* Seungbyn Baek
 
 * Junha Cha
 
