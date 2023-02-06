@@ -10,7 +10,7 @@ Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. Sh
 
 ### Jan 24, 2023
 
-Martin gives the first lecture of the [BST282](https://www.coursicle.com/harvard/courses/BST/282/) course "Introduction to bioinformatics and computational genomics" given at the [Harvard School of Publich Health](https://www.hsph.harvard.edu/).
+Martin gives the first lecture of the [BST282](https://www.coursicle.com/harvard/courses/BST/282/) course "Introduction to bioinformatics and computational genomics" given at the [Harvard School of Publich Health](https://www.hsph.harvard.edu/). Martin is co-director of the course together with [Luca Pinello](https://main.pinellolab.partners.org/people/).
 
 ### Jan 23, 2023
 
