@@ -19,9 +19,11 @@ permalink: /people
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
 
-<img src="assets/img/alexa.jpeg" alt="Alexa Guan" width="200"/>
+<img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
 <p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
+
+<img src="assets/img/alexa.jpeg" alt="Alexa Guan" width="200"/>
 
 <p style="text-align: center;">Alexa Guan (PhD student)</p>
 
