@@ -41,7 +41,9 @@ permalink: /people
 
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
 
-<p style="text-align: center;">Nikolaos Patikas (Postdoctoral fellow)</p>
+<img src="assets/img/nikos.jpg" alt="Nikolaos Patikas" width="200"/>
+
+<p style="text-align: center;">Nikolaos Patikasi, PhD (Postdoctoral fellow)</p>
 
 ## Past members (Sanger and BWH)
 
