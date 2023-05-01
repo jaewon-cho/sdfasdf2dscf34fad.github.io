@@ -10,6 +10,8 @@ For an up to date list of all publications (including preprints), please see [Go
 
 ## <a id="2023"></a>2023
 
+1. Ioannis Mouratidis, Candace S Y Chan, Nikol Chantzi, Georgios Christos Tsiatsianis, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*Quasi-prime peptides: identification of the shortest peptide sequences unique to a species*](https://academic.oup.com/nargab/article/5/2/lqad039/7138487), **NAR Genomics and Bioinformatics**, Volume 5, Issue 2, June 2023.
+
 ## <a id="2022"></a>2022
 
 1. Kevin Riehl, Cristian Riccio, Eric A Miska, **Martin Hemberg**, [*TransposonUltimate: software for transposon classification, annotation and detection*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac136/6541023), **Nucleic Acids Research**, 10.1093/nar/gkac136, 2022.
