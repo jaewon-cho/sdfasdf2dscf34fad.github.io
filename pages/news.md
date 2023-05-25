@@ -4,9 +4,17 @@ title: News
 permalink: /news
 ---
 
-### Feb 1
+### May 15, 2023
 
-Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. She will be working with us for six months to study PDACs.
+Welcome back Jeanna! She will be doing her PhD work jointly between the Hemberg and [Hwang](https://www.whwanglab.org/) labs.
+
+### May 8, 2023
+
+Welcome Dorottya Ralbovszki who is visiting from the [Hall lab](https://ivh.ku.dk/english/research/pathobiological-sciences/brain-development-and-disease/) at the University of Copenhagen. She is working on a project comparing brain scRNAseq from multiple species.
+
+### Feb 1, 2023
+
+Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. She will be working with us for six months to study PNETs.
 
 ### Jan 24, 2023
 

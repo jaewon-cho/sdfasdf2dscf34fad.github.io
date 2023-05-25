@@ -45,6 +45,10 @@ permalink: /people
 
 <p style="text-align: center;">Nikolaos Patikasi, PhD (Postdoctoral fellow)</p>
 
+<img src="assets/img/jeanna.jpg" alt="Jeanna Qui" width="200"/>
+
+<p style="text-align: center;">Jeanna Qui (PhD student)</p>
+
 ## Past members (Sanger and BWH)
 
 * Irina Abnizova
