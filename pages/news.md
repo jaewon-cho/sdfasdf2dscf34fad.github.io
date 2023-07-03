@@ -10,7 +10,7 @@ Good bye Dorottya! Two months really flew by and we wish you all the best for th
 
 ### June 26, 2023
 
-<img src="assets/img/gene_lay_opening.jpg" alt="Gene Lay opening" width="600"/>
+<img src="assets/img/gene_lay_opening.jpeg" alt="Gene Lay opening" width="600"/>
 
 <p style="text-align: center;">Opening of the Gene Lay Institute.</p>
 
