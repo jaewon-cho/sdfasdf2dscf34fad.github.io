@@ -4,6 +4,26 @@ title: News
 permalink: /news
 ---
 
+### June 26, 2023
+
+<img src="assets/img/gene_lay_opening.jpg" alt="Gene Lay opening" width="600"/>
+
+<p style="text-align: center;">Opening of the Gene Lay Institute.</p>
+
+We had the honor of attending the grand opening of the new Gene Lay Institute of Immunology and Inflammation, named in honor of the generous donor who made his fortune after founding the company [Biolegend](https://www.biolegend.com/).
+
+### June 15-16, 2023
+
+<img src="assets/img/beach_2023.jpg" alt="Lab members on the beach" width="600"/>
+
+<p style="text-align: center;">Lab members enjoying the beach.</p>
+
+We all enjoyed the annual HMS Department of Immunology retreat in sunny Falmouth on Cape Cod.
+
+### June 12, 2023
+
+Welcome Sravani Saripalli who is joining as a Research Assistant to help with our [CZI project](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/) to develop a cell-atlas search engine.
+
 ### May 15, 2023
 
 Welcome back Jeanna! She will be doing her PhD work jointly between the Hemberg and [Hwang](https://www.whwanglab.org/) labs.

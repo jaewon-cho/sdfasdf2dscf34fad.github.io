@@ -12,6 +12,8 @@ For an up to date list of all publications (including preprints), please see [Go
 
 1. Ioannis Mouratidis, Candace S Y Chan, Nikol Chantzi, Georgios Christos Tsiatsianis, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*Quasi-prime peptides: identification of the shortest peptide sequences unique to a species*](https://academic.oup.com/nargab/article/5/2/lqad039/7138487), **NAR Genomics and Bioinformatics**, Volume 5, Issue 2, June 2023.
 
+2. Kevin Riehl, Michael Neunteufel, **Martin Hemberg**, [*Hierarchical confusion matrix for classification performance evaluation*](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad057/7217007?redirectedFrom=fulltext), **Journal of the Royal Statistical Society Series C**, July 2023.
+
 ## <a id="2022"></a>2022
 
 1. Kevin Riehl, Cristian Riccio, Eric A Miska, **Martin Hemberg**, [*TransposonUltimate: software for transposon classification, annotation and detection*](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac136/6541023), **Nucleic Acids Research**, 10.1093/nar/gkac136, 2022.
