@@ -42,7 +42,7 @@ Welcome Dorottya Ralbovszki who is visiting from the [Hall lab](https://ivh.ku.d
 
 ### Feb 1, 2023
 
-Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. She will be working with us for six months to study PNETs.
+Welcome Jeanna Qui who is the first Harvard rotation student joining the lab. She will be working with us for six weeks to study PNETs.
 
 ### Jan 24, 2023
 
