@@ -4,6 +4,10 @@ title: News
 permalink: /news
 ---
 
+### June 30, 2023
+
+Good bye Dorottya! Two months really flew by and we wish you all the best for the second half of your PhD back in Denmark.
+
 ### June 26, 2023
 
 <img src="assets/img/gene_lay_opening.jpg" alt="Gene Lay opening" width="600"/>
@@ -23,6 +27,10 @@ We all enjoyed the annual HMS Department of Immunology retreat in sunny Falmouth
 ### June 12, 2023
 
 Welcome Sravani Saripalli who is joining as a Research Assistant to help with our [CZI project](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/) to develop a cell-atlas search engine.
+
+### June 5, 2023
+
+Welcome [Nicole Joller](https://www.dqbm.uzh.ch/en/research/joller.html) from the University of Zurich who will be joining us for a mini-sabbatical this summer.
 
 ### May 15, 2023
 

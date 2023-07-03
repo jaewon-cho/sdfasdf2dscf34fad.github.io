@@ -49,6 +49,8 @@ permalink: /people
 
 <p style="text-align: center;">Jeanna Qui (PhD student)</p>
 
+<p style="text-align: center;">Sravani Saripalli (Research assistant)</p>
+
 ## Past members (Sanger and BWH)
 
 * Irina Abnizova
