@@ -10,10 +10,6 @@ Good bye Dorottya! Two months really flew by and we wish you all the best for th
 
 ### June 26, 2023
 
-<img src="assets/img/gene_lay_opening.jpeg" alt="Gene Lay opening" width="600"/>
-
-<p style="text-align: center;">Opening of the Gene Lay Institute.</p>
-
 We had the honor of attending the grand opening of the new Gene Lay Institute of Immunology and Inflammation, named in honor of the generous donor who made his fortune after founding the company [Biolegend](https://www.biolegend.com/).
 
 ### June 15-16, 2023
