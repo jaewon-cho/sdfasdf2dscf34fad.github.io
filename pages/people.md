@@ -11,6 +11,10 @@ permalink: /people
 
 ## Current members
 
+<img src="assets/img/shaokun.jpg" alt="Shaokun An" width="200"/>
+
+<p style="text-align: center;">Shaokun (Stella) An, PhD (Postdoctoral fellow)</p>
+
 <img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
 
 <p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
@@ -18,6 +22,8 @@ permalink: /people
 <img src="assets/img/jaewon.jpg" alt="Jae-Won Cho" width="200"/>
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
+
+<p style="text-align: center;">Junxi Feng (MSc student)</p>
 
 <img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
@@ -50,6 +56,8 @@ permalink: /people
 <p style="text-align: center;">Jeanna Qui (PhD student)</p>
 
 <p style="text-align: center;">Sravani Saripalli (Research assistant)</p>
+
+<p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
 
 ## Past members (Sanger and BWH)
 

@@ -4,6 +4,14 @@ title: News
 permalink: /news
 ---
 
+### September 18, 2023
+
+Welcome Shaokun, Junxi and Xu! Shaokun is a postdoctoral fellow who will be working to expand the scfind package to allow for spatial queries. Junxi is a MSc student who is looking to contribute to the spatial transcriptomics work with the Hwang lab over the next two years. Xu is a MSc student from HEAS who will be writing her thesis on a new machine learning methods for detecting doublets and empty droplets.
+
+### August 11, 2023
+
+Good bye Nicole! She had a very productive summer and we look forward to continue working with her and her group.
+
 ### June 30, 2023
 
 Good bye Dorottya! Two months really flew by and we wish you all the best for the second half of your PhD back in Denmark.
