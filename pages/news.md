@@ -4,6 +4,20 @@ title: News
 permalink: /news
 ---
 
+### December 17, 2023
+
+We welcome Muhammad Toseef from City University in Hong Kong who will be working with us for 6 months. Muhammad will collaborate with Peter Wang from the Hwang lab to analyze perineural invasion in pancreatic cancer.
+
+### December 8, 2023
+
+<img src="assets/img/holiday_2023.jpg" alt="Treats for holiday party" width="600"/>
+
+Lab members and other friends enjoyed holiday themed treats.
+
+### November 3, 2023
+
+Good bye Hanjune! He is heading back to Korea to complete his PhD at Yonsei University.
+
 ### September 18, 2023
 
 Welcome Shaokun, Junxi and Xu! Shaokun is a postdoctoral fellow who will be working to expand the scfind package to allow for spatial queries. Junxi is a MSc student who is looking to contribute to the spatial transcriptomics work with the Hwang lab over the next two years. Xu is a MSc student from HEAS who will be writing her thesis on a new machine learning methods for detecting doublets and empty droplets.

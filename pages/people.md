@@ -41,8 +41,6 @@ permalink: /people
 
 <p style="text-align: center;">Martin Hemberg, PhD (Principal investigator)</p>
 
-<p style="text-align: center;">Hanjune Kim (PhD student)</p>
-
 <img src="assets/img/mayank.jpg" alt="Mayank Mahajan" width="200"/>
 
 <p style="text-align: center;">Mayank Mahajan, PhD (Postdoctoral fellow)</p>
@@ -59,6 +57,9 @@ permalink: /people
 
 <p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
 
+<p style="text-align: center;">Muhammad Toseef (Visiting PhD student)</p>
+
+
 ## Past members (Sanger and BWH)
 
 * Irina Abnizova
@@ -74,6 +75,8 @@ permalink: /people
 * Louis-Francois Handfeld
 
 * Jacob Hepkema
+
+* Hanjune Kim
 
 * Yi-Jun Kim
 
