@@ -10,7 +10,9 @@ We welcome Muhammad Toseef from City University in Hong Kong who will be working
 
 ### December 8, 2023
 
-<img src="assets/img/holiday_2023.jpg" alt="Treats for holiday party" width="600"/>
+<img src="assets/img/holiday2023.jpg" alt="Treats for holiday party" width="600"/>
+
+<p style="text-align: center;">Food!</p>
 
 Lab members and other friends enjoyed holiday themed treats.
 
