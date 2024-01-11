@@ -6,7 +6,11 @@ permalink: /publications
 
 For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
-[2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+[2024] (#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
+
+## <a id="2024"></a>2024
+
+1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [* Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
 
 ## <a id="2023"></a>2023
 
@@ -15,6 +19,8 @@ For an up to date list of all publications (including preprints), please see [Go
 2. Kevin Riehl, Michael Neunteufel, **Martin Hemberg**, [*Hierarchical confusion matrix for classification performance evaluation*](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad057/7217007?redirectedFrom=fulltext), **Journal of the Royal Statistical Society Series C**, July 2023.
 
 3. Jacob Hepkema, Nicholas Keone Lee, Benjamin J Stewart, Siwat Ruangroengkulrith, Varodom Charoensawan, Menna R Clatworthy, **Martin Hemberg**, *[Predicting the impact of sequence motifs on gene regulation using single-cell data*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03021-9), **Genome Biology**, Volume 24, Issue 1, p 1-24, 2023.
+
+4. Jooyeon Suh, Hyeonkyeong Kim, Jiyun Min, Hyun Ju Yeon, **Martin Hemberg**, Luca Scimeca, Ming-Ru Wu, Hyun Guy Kang, Yi-Jun Kim, Jin-Hong Kim, [*Decoupling NAD + metabolic dependency in chondrosarcoma by targeting the SIRT1-HIF-2a axis*](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(23)00559-1.pdf), **Cell Reports Medicine**, Volume 5, 101342, 2024.
 
 ## <a id="2022"></a>2022
 
