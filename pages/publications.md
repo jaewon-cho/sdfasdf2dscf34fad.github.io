@@ -12,6 +12,8 @@ For an up to date list of all publications (including preprints), please see [Go
 
 1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [* Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
 
+2. Yufei Wang, Jae-Won Cho, Gabriella Kastrunes, Alicia Buck, Cecile Razimbaud, Aedin C Culhane, Jiusong Sun, David A Braun, Toni K Choueiri, Catherine J Wu, Kristen Jones, Quang-De Nguyen, Zhu Zhu, Kevin Wei, Quan Zhu, Sabina Signoretti, Gordon J Freeman, **Martin Hemberg**, Wayne A Marasco, [*Immune Restoring CAR-T Cells Display Antitumor Activity and Reverse Immunosuppressive TME in a Humanized ccRCC Mouse Model*](https://www.cell.com/iscience/pdf/S2589-0042(24)00100-7.pdf), **iScience**, 2024.
+
 ## <a id="2023"></a>2023
 
 1. Ioannis Mouratidis, Candace S Y Chan, Nikol Chantzi, Georgios Christos Tsiatsianis, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*Quasi-prime peptides: identification of the shortest peptide sequences unique to a species*](https://academic.oup.com/nargab/article/5/2/lqad039/7138487), **NAR Genomics and Bioinformatics**, Volume 5, Issue 2, June 2023.

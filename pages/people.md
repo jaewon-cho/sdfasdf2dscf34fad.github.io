@@ -23,8 +23,6 @@ permalink: /people
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Postdoctoral fellow)</p>
 
-<p style="text-align: center;">Junxi Feng (MSc student)</p>
-
 <img src="assets/img/peterson.jpg" alt="Peterson Gitonga" width="200"/>
 
 <p style="text-align: center;">Peterson Gitonga (Postdoctoral fellow)</p>
@@ -55,7 +53,11 @@ permalink: /people
 
 <p style="text-align: center;">Sravani Saripalli (Research assistant)</p>
 
+<img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
+
 <p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
+
+<img src="assets/img/MuhammadToseef.jpg" alt="MuhammadToseef" width="200"/>
 
 <p style="text-align: center;">Muhammad Toseef (Visiting PhD student)</p>
 
