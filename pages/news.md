@@ -4,6 +4,15 @@ title: News
 permalink: /news
 ---
 
+### March 21, 2024
+
+
+<img src="assets/img/lab_skitrip_2024.jpg" alt="Ski trip" width="600"/>
+
+<p style="text-align: center;">Four pairs of skis and a snowboard</p>
+
+Lab members enjoyed a day on the ski slopes in New Hampshire. Looking forward to next year!
+
 ### December 17, 2023
 
 We welcome Muhammad Toseef from City University in Hong Kong who will be working with us for 6 months. Muhammad will collaborate with Peter Wang from the Hwang lab to analyze perineural invasion in pancreatic cancer.

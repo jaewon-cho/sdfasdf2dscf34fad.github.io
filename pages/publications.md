@@ -16,6 +16,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 3. Jooyeon Suh, Hyeonkyeong Kim, Jiyun Min, Hyun Ju Yeon, **Martin Hemberg**, Luca Scimeca, Ming-Ru Wu, Hyun Guy Kang, Yi-Jun Kim, Jin-Hong Kim, [*Decoupling NAD + metabolic dependency in chondrosarcoma by targeting the SIRT1-HIF-2a axis*](https://www.cell.com/cell-reports-medicine/pdf/S2666-3791(23)00559-1.pdf), **Cell Reports Medicine**, Volume 5, 101342, 2024.
 
+4. Chengwei Ulrika Yuan, Fu Xiang Quah, **Martin Hemberg**, [*Single cell and spatial transcriptomics: Bridging current technologies with long reads*](https://www.sciencedirect.com/science/article/pii/S0098299724000141), **Molecular Aspects of Medicine**, Volume 96, 2024.
+
+5. Jae-Won Cho, Jingyi Cao, **Martin Hemberg**, [*Joint analysis of mutational and transcriptional landscapes in human cancer reveals key perturbations during cancer evolution*](https://link.springer.com/article/10.1186/s13059-024-03201-1), **Genome Biology**, Volume 25, Issue 1, 2024.
+
 ## <a id="2023"></a>2023
 
 1. Ioannis Mouratidis, Candace S Y Chan, Nikol Chantzi, Georgios Christos Tsiatsianis, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*Quasi-prime peptides: identification of the shortest peptide sequences unique to a species*](https://academic.oup.com/nargab/article/5/2/lqad039/7138487), **NAR Genomics and Bioinformatics**, Volume 5, Issue 2, June 2023.
