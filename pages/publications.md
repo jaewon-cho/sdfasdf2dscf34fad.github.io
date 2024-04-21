@@ -20,6 +20,11 @@ For an up to date list of all publications (including preprints), please see [Go
 
 5. Jae-Won Cho, Jingyi Cao, **Martin Hemberg**, [*Joint analysis of mutational and transcriptional landscapes in human cancer reveals key perturbations during cancer evolution*](https://link.springer.com/article/10.1186/s13059-024-03201-1), **Genome Biology**, Volume 25, Issue 1, 2024.
 
+6. Irina Abnizova, Carine Stapel, Rene te Boekhorst, Jimmy Tsz Hang Lee, **Martin Hemberg**, [*Integrative analysis of transcriptomic and epigenomic data reveals distinct patterns for development and housekeeping gene regulation*](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01869-2), **BMC Biology**, Volume 22(1), 2024.
+
+7. Drew Neavin, Anne Senabouth, Himanshi Arora, Jimmy Tsz Hang Lee, Aida Ripoll-Cladellas, sc-eQTLGen Consortium, Lude Franke, Shyam Prabhakar, Chun Jimmie Ye, Davis J McCarthy, Marta Melé, **Martin Hemberg**, Joseph E Powell, [*Demuxafy: improvement in droplet assignment by integrating multiple single-cell demultiplexing and doublet detection methods*](https://link.springer.com/article/10.1186/s13059-024-03224-8a), **Genome Biology**, Volume 25, Issue 1, 2024.
+
+
 ## <a id="2023"></a>2023
 
 1. Ioannis Mouratidis, Candace S Y Chan, Nikol Chantzi, Georgios Christos Tsiatsianis, **Martin Hemberg**, Nadav Ahituv, Ilias Georgakopoulos-Soares, [*Quasi-prime peptides: identification of the shortest peptide sequences unique to a species*](https://academic.oup.com/nargab/article/5/2/lqad039/7138487), **NAR Genomics and Bioinformatics**, Volume 5, Issue 2, June 2023.
