@@ -4,6 +4,22 @@ title: News
 permalink: /news
 ---
 
+### June 17, 2024
+
+Welcome Rhane Mazzola, who is starting with the Gene Lay Institute as an administrative assistant and will help out the Hemberg lab as part of her duties.
+
+### June 3, 2024
+
+Goodbye Muhammad who is heading back to Hong Kong to finalize his PhD. Welcome Ulrika Yuan, a remotely supervised student from the University of Cambridge who will be visiting for the summer to work on her data analysis.
+
+### May 6, 2024
+
+Welcome Dorian Boschoff and Laila Norford. Dorian is a visiting MSc student from [ESPCI Paris](https://www.espci.psl.eu/en/) and will be here for the summer. Laila is a rotation student from [BIG](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track) and she will be with us until the end of June.
+
+### March 25, 2024
+
+Welcome [Kwoneel Kim](https://khu.elsevierpure.com/en/persons/kwoneel-kim) who will be with us for six months as a visiting scholar from Kyung Hee University in Korea.
+
 ### March 21, 2024
 
 

@@ -15,6 +15,8 @@ permalink: /people
 
 <p style="text-align: center;">Shaokun (Stella) An, PhD (Postdoctoral fellow)</p>
 
+<p style="text-align: center;">Dorian Bischoff (MSc student)</p>
+
 <img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
 
 <p style="text-align: center;">Jingyi Cao, PhD (Postdoctoral fellow)</p>
@@ -57,10 +59,7 @@ permalink: /people
 
 <p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
 
-<img src="assets/img/MuhammadToseef.jpg" alt="MuhammadToseef" width="200"/>
-
-<p style="text-align: center;">Muhammad Toseef (Visiting PhD student)</p>
-
+<p style="text-align: center;">Ulrika Yuan (PhD student)</p>
 
 ## Past members (Sanger and BWH)
 
@@ -92,6 +91,8 @@ permalink: /people
 
 * Ioannis Mouratides
 
+* Laila Norford
+
 * Guillermo Parada
 
 * Nikolaos Patikas
@@ -109,6 +110,8 @@ permalink: /people
 * Yuyao Song
 
 * Nicole Staudt
+
+* Muhammad Toseef
 
 * Jennifer Westoby
 

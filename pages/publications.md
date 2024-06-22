@@ -24,6 +24,10 @@ For an up to date list of all publications (including preprints), please see [Go
 
 7. Drew Neavin, Anne Senabouth, Himanshi Arora, Jimmy Tsz Hang Lee, Aida Ripoll-Cladellas, sc-eQTLGen Consortium, Lude Franke, Shyam Prabhakar, Chun Jimmie Ye, Davis J McCarthy, Marta Melé, **Martin Hemberg**, Joseph E Powell, [*Demuxafy: improvement in droplet assignment by integrating multiple single-cell demultiplexing and doublet detection methods*](https://link.springer.com/article/10.1186/s13059-024-03224-8a), **Genome Biology**, Volume 25, Issue 1, 2024.
 
+8. Randall T. Mertens, Peng Xiao, Seungbyn Baek, Aditya Misra, Joseph M. Rone, Kisha N. Sivanathan, Davide Mangani, Adedamola S. Arojojoye, Samuel G. Awuah, Insuk Lee, Guo-Ping Shi, Richard A. Flavell, Ana C. Anderson, **Martin Hemberg**, Roni Nowarski, [*A metabolic switch orchestrated by IL-18 and the cyclic dinucleotide cGAMP programs intestinal tolerance*](https://www.cell.com/immunity/fulltext/S1074-7613(24)00305-4), **Immunity**, 2024.
+
+9. Junha Cha, Da Hee Kim, Gamin Kim, Jae-Won Cho, Euijeong Sung, Seungbyn Baek, Min Hee Hong, Chang Gon Kim, Nam Suk Sim, Hyun Jun Hong, Jung Eun Lee, **Martin Hemberg**, Seyeon Park, Sun Ock Yoon, Sang-Jun Ha, Yoon Woo Koh, Hye Ryun Kim, Insuk Lee, [*Single-cell analysis reveals cellular and molecular factors counteracting HPVpositive oropharyngeal cancer immunotherapy outcomes*], **Journal for Immunotherapy of Cancer**, Volume 12, Issue 6, 2024.
+
 
 ## <a id="2023"></a>2023
 
