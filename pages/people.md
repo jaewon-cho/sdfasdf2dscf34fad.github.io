@@ -115,4 +115,3 @@ permalink: /people
 
 * Jennifer Westoby
 
-* Chenwei Yuan
