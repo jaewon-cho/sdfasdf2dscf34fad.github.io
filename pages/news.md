@@ -14,7 +14,7 @@ We enjoyed the first (but hopefully not the last!) lab kayaking social under som
 
 ### June 24, 2024
 
-<img src="assets/img/Imm_retreat_both_2024.jpg" alt="Photo booth" width="600"/>
+<img src="assets/img/Imm_retreat_booth_2024.jpg" alt="Photo booth" width="600"/>
 
 <p style="text-align: center;">Lab members after hours at the retreat</p>
 
