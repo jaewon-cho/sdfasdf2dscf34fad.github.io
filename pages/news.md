@@ -4,6 +4,22 @@ title: News
 permalink: /news
 ---
 
+### July 14, 2024
+
+<img src="assets/img/kayak_2024.jpg" alt="Kayak" width="600"/>
+
+<p style="text-align: center;">A kayak, a student, and a postdoc</p>
+
+We enjoyed the first (but hopefully not the last!) lab kayaking social under some very sunny skies on the Charles.
+
+### June 24, 2024
+
+<img src="assets/img/Imm_retreat_both_2024.jpg" alt="Photo booth" width="600"/>
+
+<p style="text-align: center;">Lab members after hours at the retreat</p>
+
+The lab enjoyed a couple of sunny days at the annual departmental retreat on Cape Cod.
+
 ### June 17, 2024
 
 Welcome Rhane Mazzola, who is starting with the Gene Lay Institute as an administrative assistant and will help out the Hemberg lab as part of her duties.
