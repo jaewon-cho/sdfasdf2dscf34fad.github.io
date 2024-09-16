@@ -10,7 +10,7 @@ For an up to date list of all publications (including preprints), please see [Go
 
 ## <a id="2024"></a>2024
 
-1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [* Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
+1. Wei E. Gordon, Seungbyn Baek, Hai P. Nguyen, Yien-Ming Kuo, Rachael Bradley, Sarah L. Fong, Nayeon Kim, Alex Galazyuk, Insuk Lee, Melissa R. Ingala, Nancy B. Simmons, Tony Schountz, Lisa Noelle Cooper, Ilias Georgakopoulos-Soares, **Martin Hemberg**, Nadav Ahituv, [*Integrative single-cell characterization of a frugivorous and an insectivorous bat kidney and pancreas*](https://www.nature.com/articles/s41467-023-44186-y), **Nature Communications**, 15 (12), January 2024.
 
 2. Yufei Wang, Jae-Won Cho, Gabriella Kastrunes, Alicia Buck, Cecile Razimbaud, Aedin C Culhane, Jiusong Sun, David A Braun, Toni K Choueiri, Catherine J Wu, Kristen Jones, Quang-De Nguyen, Zhu Zhu, Kevin Wei, Quan Zhu, Sabina Signoretti, Gordon J Freeman, **Martin Hemberg**, Wayne A Marasco, [*Immune Restoring CAR-T Cells Display Antitumor Activity and Reverse Immunosuppressive TME in a Humanized ccRCC Mouse Model*](https://www.cell.com/iscience/pdf/S2589-0042(24)00100-7.pdf), **iScience**, 2024.
 
@@ -28,6 +28,9 @@ For an up to date list of all publications (including preprints), please see [Go
 
 9. Junha Cha, Da Hee Kim, Gamin Kim, Jae-Won Cho, Euijeong Sung, Seungbyn Baek, Min Hee Hong, Chang Gon Kim, Nam Suk Sim, Hyun Jun Hong, Jung Eun Lee, **Martin Hemberg**, Seyeon Park, Sun Ock Yoon, Sang-Jun Ha, Yoon Woo Koh, Hye Ryun Kim, Insuk Lee, [*Single-cell analysis reveals cellular and molecular factors counteracting HPVpositive oropharyngeal cancer immunotherapy outcomes*](https://jitc.bmj.com/content/12/6/e008667), **Journal for Immunotherapy of Cancer**, Volume 12, Issue 6, 2024.
 
+10. Yuyao Song, Guillermo Parada, Jimmy Tsz Hang Lee, **Martin Hemberg**, [*Mining alternative splicing patterns in scRNA-seq data using scASfind*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03323-6), **Genome Biology**, Volume 25, 2024.
+
+11. Carina Shiau, Jingyi Cao, Dennis Gong, Mark T Gregory, Nicholas J Caldwell, Xunqin Yin, Jae-Won Cho, Peter L Wang, Jennifer Su, Steven Wang, Jason W Reeves, Tae Kyung Kim, Youngmi Kim, Jimmy A Guo, Nicole A Lester, Jung Woo Bae, Ryan Zhao, Nathan Schurman, Jamie L Barth, Maria L Ganci, Ralph Weissleder, Tyler Jacks, Motaz Qadan, Theodore S Hong, Jennifer Y Wo, Hannah Roberts, Joseph M Beechem, Carlos Fernandez-del Castillo, Mari Mino-Kenudson, David T Ting, **Martin Hemberg**, William L Hwang, [*Spatially resolved analysis of pancreatic cancer identifies therapy-associated remodeling of the tumor microenvironment*](https://www.nature.com/articles/s41588-024-01890-9), **Nature Genetics**, Volume 56(9), 2024.
 
 ## <a id="2023"></a>2023
 

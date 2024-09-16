@@ -12,6 +12,12 @@ In collaboration with many others, we develop and maintain this [teaching resour
 
 All of our computational tools are available at our [GitHub](https://github.com/hemberg-lab) site. Please note that some of the older tools may not be actively supported any more as the people responsible for coding have moved on.
 
+### Spatial transcriptomics methods
+
+* [SCOTIA](https://github.com/Caochris/SCOTIA) is a python package for discovery of ligand-receptor interactions from high-resolution spatial transcriptomics data.
+
+* [SpatialQuery](https://github.com/ShaokunAn/Spatial-Query) is a python package for identifying cell type patterns in high resolution spatial transcriptomics data. 
+
 ### Single-cell methods
 
 * [SC3](https://www.bioconductor.org/packages/release/bioc/html/SC3.html) is an R package for unsupervised clustering of scRNAseq data based on transcriptional profile.

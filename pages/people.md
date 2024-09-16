@@ -69,6 +69,8 @@ permalink: /people
 
 * Seungbyn Baek
 
+* Dorian Bischoff
+
 * Junha Cha
 
 * Ilias Georgakopoulos-Soares
@@ -86,6 +88,10 @@ permalink: /people
 * Jimmy Lee
 
 * Nicholas Lee
+
+* Songyun Li
+
+* Gloria Lugoboni
 
 * Johannes Mofors
 

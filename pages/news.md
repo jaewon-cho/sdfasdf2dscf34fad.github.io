@@ -4,6 +4,10 @@ title: News
 permalink: /news
 ---
 
+### September 16, 2024
+
+Welcome Pranay Ammula who is an MSc student at Northeastern University. He will be joining as an intern until December, 2024.
+
 ### July 14, 2024
 
 <img src="assets/img/kayak_2024.jpg" alt="Kayak" width="600"/>
@@ -11,6 +15,10 @@ permalink: /news
 <p style="text-align: center;">A kayak, a student, and a postdoc</p>
 
 We enjoyed the first (but hopefully not the last!) lab kayaking social under some very sunny skies on the Charles.
+
+### July 1, 2024
+
+Welcome Gloria Lugoboni who is an Armenise fellow and will be joining the lab for the summer. We also welcome Songyun Li as a summer intern. She is an undergraduate at the Chinese University of Hong Kong.
 
 ### June 24, 2024
 
