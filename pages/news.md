@@ -4,6 +4,18 @@ title: News
 permalink: /news
 ---
 
+### December 4, 2024
+
+Congratulations to Victoria Tang who passed her MSc viva with flying colors today.
+
+### November 26, 2024
+
+Welcome Baohua Zang who is a visiting scholar who will be working with us for a year.
+
+### October 21, 2024
+
+Welcome Tilen Trselic who is visiting us from Karolinska Institutet in Stockholm for six months.
+
 ### September 16, 2024
 
 Welcome Pranay Ammula who is an MSc student at Northeastern University. He will be joining as an intern until December, 2024.

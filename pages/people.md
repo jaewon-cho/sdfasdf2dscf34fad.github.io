@@ -11,11 +11,11 @@ permalink: /people
 
 ## Current members
 
+<p style="text-align: center;">Pranay Ammula</p>
+
 <img src="assets/img/shaokun.jpg" alt="Shaokun An" width="200"/>
 
 <p style="text-align: center;">Shaokun (Stella) An, PhD (Postdoctoral fellow)</p>
-
-<p style="text-align: center;">Dorian Bischoff (MSc student)</p>
 
 <img src="assets/img/Jingyi_Cao.jpeg" alt="Jingyi Cao" width="200"/>
 
@@ -53,13 +53,21 @@ permalink: /people
 
 <p style="text-align: center;">Jeanna Qui (PhD student)</p>
 
-<p style="text-align: center;">Sravani Saripalli (Research assistant)</p>
+<img src="assets/img/jeanna.jpg" alt="Jeanna Qui" width="200"/>
+
+<p style="text-align: center;">Jeanna Qui (PhD student)</p>
 
 <img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
 
 <p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
 
+<img src="assets/img/tilen.jpg" alt="Tilen Trselic" width="200"/>
+
+<p style="text-align: center;">Tilen Trselic (PhD student)</p>
+
 <p style="text-align: center;">Ulrika Yuan (PhD student)</p>
+
+<p style="text-align: center;">Baohua Zhao (visiting scholar)</p>
 
 ## Past members (Sanger and BWH)
 
@@ -114,6 +122,8 @@ permalink: /people
 * Xiaojuan Shen
 
 * Yuyao Song
+
+* Sravanni Saripalli
 
 * Nicole Staudt
 
