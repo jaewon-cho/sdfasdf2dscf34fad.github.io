@@ -53,17 +53,13 @@ permalink: /people
 
 <p style="text-align: center;">Jeanna Qui (PhD student)</p>
 
-<img src="assets/img/jeanna.jpg" alt="Jeanna Qui" width="200"/>
-
-<p style="text-align: center;">Jeanna Qui (PhD student)</p>
-
 <img src="assets/img/xutang.jpg" alt="Xu Tang" width="200"/>
 
 <p style="text-align: center;">Xu (Victoria) Tang (MSc student)</p>
 
 <img src="assets/img/tilen.jpg" alt="Tilen Trselic" width="200"/>
 
-<p style="text-align: center;">Tilen Trselic (PhD student)</p>
+<p style="text-align: center;">Tilen Trselic (visiting PhD student)</p>
 
 <p style="text-align: center;">Ulrika Yuan (PhD student)</p>
 
