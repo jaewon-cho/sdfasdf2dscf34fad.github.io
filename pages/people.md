@@ -4,9 +4,9 @@ title: People
 permalink: /people
 ---
 
-<img src="assets/img/lab_fleeces_2022.jpeg" alt="Lab in fleeces" width="600"/>
+<img src="assets/img/logo.png" alt="which picture?" width="600"/>
 
-<p style="text-align: center;">Lab members wearing carefully coordinated fleeces and masks in the spring of 2022</p>
+<p style="text-align: center;">which picture</p>
 
 
 ## Current members
