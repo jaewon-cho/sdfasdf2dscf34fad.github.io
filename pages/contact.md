@@ -4,6 +4,14 @@ title: Contact
 permalink: /contact
 ---
 
-We are located on the 9th floor of the [Hale Building for Transformative Medicine](https://www.brighamandwomens.org/about-bwh/locations/building-for-transformative-medicine-clinical-services-and-research) which is on the main campus of the hospital in the Longwood area.
+School: Hanyang University
+Department: HY Institute of Bioscience and Biotechnology, Life Science
+Program: Bioinformatics
 
-You can reach us by email through mhemberg strange-swirly-a bwh.harvard.edu
+Address:
+building: (04763) Student Union Building, 222 Wangsimni-ro, Seongdong-gu, Seoul, (04763) 서울특별시 성동구 왕십리로 222 학생회관 2층
+office: ??호
+lab: ??호
+
+Contact:
+
