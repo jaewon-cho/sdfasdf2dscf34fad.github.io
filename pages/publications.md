@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications
 ---
 
-For an up to date list of all publications (including preprints), please see [Google scholar](https://scholar.google.com/citations?user=H4jO_DQAAAAJ&hl=en).
 
 [2024](#2024) [2023](#2023) [2022](#2022) [2021](#2021) [2020](#2020) [2019](#2019) [2018](#2018) [2017](#2017) [2016](#2016)
 
