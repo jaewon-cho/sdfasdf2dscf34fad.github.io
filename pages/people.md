@@ -11,7 +11,7 @@ permalink: /people
 
 ## Current members
 
-<img src="/assets/img/jaewon.png" width="200"/>
+<img src="/assets/img/jaewon.jpg" width="200"/>
 
 <p style="text-align: center;">Jae-Won Cho, PhD (Principle Investigator, 2025)</p>
 
