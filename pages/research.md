@@ -18,8 +18,11 @@ We are trying to establish a hidden feature with big "pan-cancer" data.
 - AI-based method development or analysis (GAN, LLM-based) <br/>
 
 ## Projects
-Title: Pan-cancer big data analysis <br/>
-  
-Title: LLM-based pan-cancer single-cell modeling <br/>
-  
-Title: Single-cell TCR/BCR repertoire method optimazation <br/>
+- Title: Pan-cancer big data analysis <br/>
+<img src="assets/img/logo.png">
+
+- Title: LLM-based pan-cancer single-cell modeling <br/>
+<img src="assets/img/logo.png">
+
+- Title: Single-cell TCR/BCR repertoire method optimazation <br/>
+<img src="assets/img/logo.png">
