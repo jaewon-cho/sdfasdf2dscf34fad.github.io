@@ -19,14 +19,13 @@ Nothing <br/>
    
 3 Yufei Wang#, **Jae-Won Cho#**, Gabriella Kastrunes, Alicia Buck, Cecile Razimbaud, Aedin C Culhane, Jiusong Sun, David A Braun, Toni K Choueiri, Catherine J Wu, Kristen Jones, Quang-De Nguyen, Zhu Zhu, Kevin Wei, Quan Zhu, Sabina Signoretti, Gordon J Freeman, Martin Hemberg, Wayne A Marasco, [*Immune Restoring CAR-T Cells Display Antitumor Activity and Reverse Immunosuppressive TME in a Humanized ccRCC Mouse Model*](https://www.cell.com/iscience/pdf/S2589-0042(24)00100-7.pdf), iScience, 202402
    
-2 Junha Cha*, Jiwon Yu, **Jae-Won Cho**, Martin Hemberg, Insuk Lee, [*scHumanNet: a single-cell network analysis platform for the study of cell-type specificity of disease genes *](https://doi.org/10.1093/nar/gkac1042), Nucleic Acids Research, 202301
+2 Junha Cha*, Jiwon Yu, **Jae-Won Cho**, Martin Hemberg, Insuk Lee, [*scHumanNet: a single-cell network analysis platform for the study of cell-type specificity of disease genes*](https://doi.org/10.1093/nar/gkac1042), Nucleic Acids Research, 202301
   
 1 Pilar Baldominos, Alex Barbera-Mourelle, Olga Barreiro, Yu Huang, Andrew Wight, **Jae-Won Cho**, Xi Zhao, Guillem Estivill, Isam Adam, Xavier Sanchez, Shannon McCarthy, Julien Schaller, Zara Khan, Albert Ruzo, Ricardo Pastorello, Edward T Richardson, Deborah Dillon, Paula Montero-Llopis, Romualdo Barroso-Sousa, Juliet Forman, Sachet A Shukla, Sara M Tolaney, Elizabeth A Mittendorf, Ulrich H von Andrian, Kai W Wucherpfennig, Martin Hemberg, Judith Agudo, [*Quiescent cancer cells resist T cell attack by forming an immunosuppressive niche*](https://www.sciencedirect.com/science/article/pii/S0092867422003439), Cell, 202205
 
 
 ## <a id="PhD"></a>PhD (7)
-7 **Jae-Won Cho#**, Hyo Sup Shim, Chang Young Lee, Seong Yong Park, Min Hee Hong, Insuk Lee, Hye Ryun Kim, [*The importance of enhancer methylation for epigenetic regulation of tumorigenesis in squamous lung cancer
-*](https://doi.org/10.1038/s12276-021-00718-4), Experimental & Molecular Medicine, 202201
+7 **Jae-Won Cho#**, Hyo Sup Shim, Chang Young Lee, Seong Yong Park, Min Hee Hong, Insuk Lee, Hye Ryun Kim, [*The importance of enhancer methylation for epigenetic regulation of tumorigenesis in squamous lung cancer*](https://doi.org/10.1038/s12276-021-00718-4), Experimental & Molecular Medicine, 202201
 
 6 **Jae-Won Cho#**, Seyeon Park, Gamin Kim, Heonjong Han, Hyo Sup Shim, Sunhye Shin, Yong-Soo Bae, Seong Yong Park, Sang-Jun Ha, Insuk Lee & Hye Ryun Kim, [*Dysregulation of TFH-B-TRM lymphocyte cooperation is associated with unfavorable anti-PD-1 responses in EGFR-mutant lung cancer*](https://doi.org/10.1038/s41467-021-26362-0), Nature Communications, 202110
 
