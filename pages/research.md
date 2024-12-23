@@ -28,4 +28,4 @@ We are trying to establish a hidden feature with big "pan-cancer" data.
 <img src="assets/img/cancer_llm.gif">
 
 - Title: Single-cell TCR/BCR repertoire method optimazation <br/>
-<img src="assets/img/job.gif">
+<img src="assets/img/job.gif" width="100"/>
