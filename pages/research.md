@@ -20,12 +20,12 @@ We are trying to establish a hidden feature with big "pan-cancer" data.
 
 ## Projects
 - Title: Pan-cancer big data analysis <br/>
-<img src="assets/img/bigdata_cell_cell.gif">
-<img src="assets/img/bigdata_evolution.gif">
-<img src="assets/img/bigdata_spatial.gif">
+<img src="assets/img/bigdata_cell_cell.gif"> <br/><br/>
+<img src="assets/img/bigdata_evolution.gif"> <br/><br/>
+<img src="assets/img/bigdata_spatial.gif"> <br/><br/>
 
 - Title: LLM-based pan-cancer single-cell modeling <br/>
-<img src="assets/img/cancer_llm.gif">
+<img src="assets/img/cancer_llm.gif"> <br/><br/>
 
 - Title: Single-cell TCR/BCR repertoire method optimazation <br/>
-<img src="assets/img/job.gif" width="100"/>
+<img src="assets/img/job.png" width="100"/> <br/><br/><br/>
