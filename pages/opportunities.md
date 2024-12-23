@@ -4,6 +4,6 @@ title: Opportunities
 permalink: /opportunities
 ---
 
-![Jobs](assets/img/job.png width="100"/)
+<img src="/assets/img/job.png" width="100"/>
 
 Not opened, yet
